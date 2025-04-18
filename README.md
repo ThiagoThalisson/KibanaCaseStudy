@@ -14,19 +14,20 @@
 🏴 A case study project for visualizing web traffic with ELK, ideal for learning log ingestion, parsing, and analytics.
 
 ## 📖 `Table Of Contents` <!-- omit in toc -->
+
 - [🏷️ `Features`](#️-features)
 - [🧑‍💻 `Mockaroo Field Setup`](#-mockaroo-field-setup)
 - [🚥 `How To Run It`](#-how-to-run-it)
 - [⛩️ `Achitecture Diagram`](#️-achitecture-diagram)
 - [📊 `Dashboard Preview`](#-dashboard-preview)
   - [🔹 `Important Metrics Full Dashboard`](#-important-metrics-full-dashboard)
-      - [📈 `Requests Over Time`](#-requests-over-time)
-      - [📊 `Top Endpoints`](#-top-endpoints)
-      - [🧾 `Response Codes`](#-response-codes)
-      - [🧭 `Requests By Method`](#-requests-by-method)
-      - [📦 `Bytes Transferred`](#-bytes-transferred)
-      - [🕵️‍♂️ `Top User Agents`](#️️-top-user-agents)
-      - [🌐 `Requests By IP`](#-requests-by-ip)
+    - [📈 `Requests Over Time`](#-requests-over-time)
+    - [📊 `Top Endpoints`](#-top-endpoints)
+    - [🧾 `Response Codes`](#-response-codes)
+    - [🧭 `Requests By Method`](#-requests-by-method)
+    - [📦 `Bytes Transferred`](#-bytes-transferred)
+    - [🕵️‍♂️ `Top User Agents`](#️️-top-user-agents)
+    - [🌐 `Requests By IP`](#-requests-by-ip)
   - [📥 `Importing The Dashboard`](#-importing-the-dashboard)
 
 ---
@@ -80,7 +81,7 @@ Then visit http://localhost:5601
 
 #### 📈 `Requests Over Time`
 
-![Requests Over Time](.github/requests-over-time.png)
+![Requests Over Time](.github/requests-overtime.png)
 _Shows number of requests per minute._
 
 ---
