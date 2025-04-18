@@ -1,6 +1,6 @@
 # KibanaCaseStudy
 
-🏴 A simple ELK stack project to visualize access logs using Docker Compose.
+🏴 A case study project for visualizing web traffic with ELK, ideal for learning log ingestion, parsing, and analytics.
 
 ## Features
 
