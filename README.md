@@ -29,4 +29,10 @@ docker-compose up
 
 Then visit http://localhost:5601
 
+## How To Import The Dashboard
+1. Go to Stack Management → Saved Objects
+2. Click “Import”
+3. Upload the .ndjson file
+4. Click “Import”
+
 ---
