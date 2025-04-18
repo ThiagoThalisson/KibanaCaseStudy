@@ -7,7 +7,7 @@
 - Ingests raw Nginx logs using Logstash
 - Parses logs with GROK filters
 - Visualizes data in Kibana dashboards
-- Built with Elasticsearch 7.17 and Kibana 7.17
+- Built with Elasticsearch, Logstash and Kibana 8.13.2
 
 ## Mockaroo Field Setup
 
@@ -74,28 +74,28 @@ _Distribution of status codes._
 
 #### 🧭 Requests by Method
 
-![Response Codes](.github/requests-by-method.png)
-_HTTP methods used (GET, POST, etc.)_
+![Requests by Method](.github/requests-by-method.png)
+_HTTP methods used. (GET, POST, etc.)_
 
 ---
 
 #### 📦 Bytes Transferred
 
-![Response Codes](.github/requests-overtime.png)
+![Bytes Transferred](.github/requests-overtime.png)
 _Total traffic volume over time. GET, POST, etc._
 
 ---
 
 #### 🕵️‍♂️ Top User Agents
 
-![Response Codes](.github/top-user-agents.png)
+![Top User Agents](.github/top-user-agents.png)
 _Most active clients accessing the server._
 
 ---
 
 #### 🌐 Requests by IP
 
-![Response Codes](.github/requests-by-ip.png)
+![Requests by IP](.github/requests-by-ip.png)
 _Top visitor IP addresses._
 
 ---
