@@ -35,7 +35,11 @@ Then visit http://localhost:5601
 
 # Architecture Diagram
 
-<img src=".github/diagram.png" width="100%" alt="Kibana Dashboard Preview" />
+<div align="center">
+
+<img src=".github/diagram.png" width="50%" alt="Kibana Dashboard Preview" />
+
+</div>
 
 ---
 
